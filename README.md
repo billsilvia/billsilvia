@@ -1,4 +1,8 @@
-## Hi there 👋
+I am a PhD Student in Social Psychology at University of Illinois Urbana-Champaign.
+
+This account and repository are being used to expand from the world of academic statistics to the worlds of data science and programming.
+
+I am also likely to add Doctor Who and other fandom-related projects to this repository that function outside of my academic and nonprofit work.
 
 <!--
 **billsilvia/billsilvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
